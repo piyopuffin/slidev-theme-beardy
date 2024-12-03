@@ -1,13 +1,13 @@
 ---
 theme: ./
-title: Puffin Theme
-info: Slidev theme for Piyo Puffin
+title: Beardy Theme
+info: Beardy Slidev theme by Piyo Puffin
 fonts:
   provider: google
   sans: M PLUS 1
 ---
 
-# Puffinテーマ
+# Beardyテーマ
 
 Presentation slides for developers
 
